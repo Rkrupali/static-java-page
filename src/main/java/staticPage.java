@@ -83,7 +83,7 @@ public class staticPage {
                   <h2>💡 Why Static Websites?</h2>
                   <p><strong>Date:</strong> July 25, 2025</p>
                   <p>
-                    filhal itna hi aage aage dekho hota h kya
+                    filhal itna hi aage aage dekho hota h kya</br>
                     Static websites are quick to load, easy to deploy, and perfect for personal blogs or portfolios. They don’t require a backend server or database, which makes them cost-effective and secure.
                   </p>
                 </article>
@@ -92,7 +92,7 @@ public class staticPage {
                   <h2>📚 What's Coming Next</h2>
                   <p><strong>Date:</strong> July 24, 2025</p>
                   <p>
-                    Bhagvan jane
+                    Bhagvan jane</br>
                     In future posts, I’ll be sharing tutorials on HTML, CSS, and performance testing tools like JMeter and Katalon. Stay tuned!
                   </p>
                 </article>
